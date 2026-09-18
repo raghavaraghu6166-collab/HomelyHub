@@ -9,7 +9,7 @@
 import { User } from "../Models/userModel.js";
 import jwt from "jsonwebtoken";
 import crypto from "node:crypto";
-import imagekit from "../utils/ImagekitIO.js";
+import imagekit from "../utils/ImageKitIO.js";
 import { forgotPasswordMailGenContent, sendMail } from "../utils/mail.js";
 import {
   createSendToken,
