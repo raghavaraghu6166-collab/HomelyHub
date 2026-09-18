@@ -4,7 +4,7 @@
 
 import { Property } from "../Models/propertyModel.js";
 import { APIFeatures } from "../utils/APIFeatures.js";
-import imagekit from "../utils/ImagekitIO.js";
+import imagekit from "../utils/ImageKitIO.js";
 
 
 // get all properties
